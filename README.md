@@ -23,3 +23,17 @@ ol, li {
 - CSS 선택자를 게임의 형식을 통해서 익힐 수 있는 사이트
 
 - http://flukeout.github.io/
+
+````css
+- pseudo 선택자
+a:active {
+}
+a:hover {
+}
+a:visited {
+}
+a:link {
+}
+a:focus {
+}
+````
