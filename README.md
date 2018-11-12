@@ -37,3 +37,10 @@ a:link {
 a:focus {
 }
 ````
+
+````css
+//최고 우선순위로 만들기
+body {
+    background-color:black !important; 
+}
+````
