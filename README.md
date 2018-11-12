@@ -44,3 +44,11 @@ body {
     background-color:black !important; 
 }
 ````
+
+### 캐스캐이딩
+ - 저자 - 사용자 - 브라우저 의 우선순위
+ - style - id - class - tag(포괄적)
+````css
+  //+는 동등위치 >는 자식
+  #other+#parent>#me
+````
